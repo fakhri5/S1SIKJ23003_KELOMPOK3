@@ -5,6 +5,7 @@
 @section('content')
 
 <div>test</div>
+<div>test</div>
 
     {{-- Card putih --}}
     <div class="bg-white rounded-lg shadow-lg max-w-md w-full p-6">
